@@ -24,7 +24,7 @@ The following microservices are included in the ScooterVolt platform:
 To get started with the ScooterVolt platform, please refer to the individual service repositories for setup instructions and documentation. The source code for each microservice can be found in their respective repositories, which are linked below:
 
 - User: [https://github.com/adrigar94/ScooterVolt-User](https://github.com/adrigar94/ScooterVolt-User)
-- Catalog: https://github.com/adrigar94/not-yet
+- Catalog: [https://github.com/adrigar94/ScooterVolt-Catalog](https://github.com/adrigar94/ScooterVolt-Catalog)
 - Chat: https://github.com/adrigar94/not-yet
 - Statistics: https://github.com/adrigar94/not-yet
 - Notification: https://github.com/adrigar94/not-yet
